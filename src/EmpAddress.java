@@ -23,7 +23,7 @@ public class EmpAddress extends Employee {
 
 	 
 	public String getStreet() {
-		return this.street;
+		return street;
 	}
 
 	public void setStreet(String street) {
@@ -31,7 +31,7 @@ public class EmpAddress extends Employee {
 	}
 
 	public int getApt() {
-		return this.apt;
+		return apt;
 	}
 
 	public void setApt(int apt) {
@@ -39,7 +39,7 @@ public class EmpAddress extends Employee {
 	}
 
 	public String getCity() {
-		return this.city;
+		return city;
 	}
 
 	public void setCity(String city) {
@@ -47,7 +47,7 @@ public class EmpAddress extends Employee {
 	}
 
 	public int getZip() {
-		return this.zip;
+		return zip;
 	}
 
 	public void setZip(int zip) {
@@ -55,7 +55,7 @@ public class EmpAddress extends Employee {
 	}
 
 	public String getState() {
-		return this.state;
+		return state;
 	}
 
 	public void setState(String state) {

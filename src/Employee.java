@@ -25,7 +25,7 @@ public class Employee {
 	public String getName()
 	{
 	
-		return this.name;
+		return name;
 	}
 
 	public void setId(int id){
@@ -36,7 +36,7 @@ public class Employee {
 
 	public int getId()
 	{
-		return this.id;
+		return id;
 	}
 
 
@@ -49,7 +49,7 @@ public class Employee {
 
 	public String getDesignation()
 	{
-		return this.designation;
+		return designation;
 	}
 	
 
