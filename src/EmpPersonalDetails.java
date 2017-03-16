@@ -1,5 +1,5 @@
 
-public class EmpPersonalDetails  extends Employee{
+public class EmpPersonalDetails  extends Employee {
 	
 		EmpPersonalDetails(String name, String designation, int id,int age, String phoneNumber, String street,int apt,String city,int zip,String state)
 		{

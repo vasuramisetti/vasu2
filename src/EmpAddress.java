@@ -66,7 +66,7 @@ public class EmpAddress extends Employee {
 	
 	
 	
-	 void methodd()
+	   void methodd()
 	 {
 		
 		 	System.out.println("---------Employee Address---------");
